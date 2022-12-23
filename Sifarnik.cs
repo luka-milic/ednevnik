@@ -34,7 +34,7 @@ namespace ednevnik
         private void btOK_Click(object sender, EventArgs e)
         {
             DataTable menjano = tabela.GetChanges();
-            adapter.UpdateCommand = new SqlCommandBuilder(adapter).GetDeleteCommand();
+            adapter.UpdateCommand = new SqlCommandBuilder(adapter).GetUpdateCommand();
             if (menjano != null)
             {
                 adapter.Update(menjano);
