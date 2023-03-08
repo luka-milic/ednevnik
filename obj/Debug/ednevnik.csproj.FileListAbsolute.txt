@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\ednevnik-master\bin\Debug\ednevnik.exe.config
+C:\Users\Administrator\Desktop\ednevnik-master\bin\Debug\ednevnik.exe
+C:\Users\Administrator\Desktop\ednevnik-master\bin\Debug\ednevnik.pdb
+C:\Users\Administrator\Desktop\ednevnik-master\obj\Debug\ednevnik.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ednevnik-master\obj\Debug\ednevnik.Glavna.resources
+C:\Users\Administrator\Desktop\ednevnik-master\obj\Debug\ednevnik.Login.resources
+C:\Users\Administrator\Desktop\ednevnik-master\obj\Debug\ednevnik.Ocena.resources
+C:\Users\Administrator\Desktop\ednevnik-master\obj\Debug\ednevnik.Osoba.resources
+C:\Users\Administrator\Desktop\ednevnik-master\obj\Debug\ednevnik.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ednevnik-master\obj\Debug\ednevnik.Raspodela.resources
+C:\Users\Administrator\Desktop\ednevnik-master\obj\Debug\ednevnik.Sifarnik.resources
+C:\Users\Administrator\Desktop\ednevnik-master\obj\Debug\ednevnik.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ednevnik-master\obj\Debug\ednevnik.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ednevnik-master\obj\Debug\ednevnik.exe
+C:\Users\Administrator\Desktop\ednevnik-master\obj\Debug\ednevnik.pdb

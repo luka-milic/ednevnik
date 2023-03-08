@@ -63,5 +63,11 @@ namespace ednevnik
             Raspodela frm_raspodela = new Raspodela();
             frm_raspodela.Show();
         }
+
+        private void ocenaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Ocena frm_ocena = new Ocena();
+            frm_ocena.Show();
+        }
     }
 }
